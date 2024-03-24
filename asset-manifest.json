@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/furry-brand-list/static/css/main.1f64279d.css",
-    "main.js": "/furry-brand-list/static/js/main.27e6d9b7.js",
+    "main.css": "/furry-brand-list/static/css/main.38983812.css",
+    "main.js": "/furry-brand-list/static/js/main.e9f18abb.js",
     "static/js/453.606dbd6c.chunk.js": "/furry-brand-list/static/js/453.606dbd6c.chunk.js",
     "index.html": "/furry-brand-list/index.html",
-    "main.1f64279d.css.map": "/furry-brand-list/static/css/main.1f64279d.css.map",
-    "main.27e6d9b7.js.map": "/furry-brand-list/static/js/main.27e6d9b7.js.map",
+    "main.38983812.css.map": "/furry-brand-list/static/css/main.38983812.css.map",
+    "main.e9f18abb.js.map": "/furry-brand-list/static/js/main.e9f18abb.js.map",
     "453.606dbd6c.chunk.js.map": "/furry-brand-list/static/js/453.606dbd6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f64279d.css",
-    "static/js/main.27e6d9b7.js"
+    "static/css/main.38983812.css",
+    "static/js/main.e9f18abb.js"
   ]
 }
