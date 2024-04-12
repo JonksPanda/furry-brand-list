@@ -4,6 +4,6 @@
 
 @layer base {
     html {
-        @apply bg-stone-50;
+        @apply bg-sky-100;
     }
 }
